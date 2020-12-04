@@ -19,8 +19,6 @@
 ## Competitor analysis
   Usability testing of a streaming device is critical to ensure that tasks are intuitive, even when trying to include a variety of information on said app. UT helps the designer better understand the level of knowledge/relationship a specific audience has with an interface. In my research, streaming platforms come in a wide variety of options, some are easier to use than others. From past experience, Hulu is deemed one of the least intuitive platforms, however it has one of the most abundant selections. Different age groups and demographics have varying experience using streaming platforms and things that should seem obvious may not be. A mid-aged woman may want to complete a certain task that is difficult to do on Hulu, which affects her overall experience and happiness rating.
 
-<img src="ScreenShotAnime.png"> | <img src="ScreenShotHulu.png">
-
 [Hulu](hulu.com) | [9Anime](9anime.to)
 --- | --- 
 <img src="ScreenShotAnime.png"> Hulu is a streaming platform that provides a variety of shows, movies and Live television to its users. Hulu is customizable, kid friendly and requires a subscription. Overall Hulu provides a lot of great shows and has a great aesthetic, but I have had multiple issues with the platform not working on my app or my desktop and has left me discouraged from using it. | <img src="ScreenShotHulu.png"> 9Anime is a streaming service that provides a multitude of anime shows and movies. This platform is unsanctioned which leads to many hiccups, however it functions well and provides the users with basic necessities.

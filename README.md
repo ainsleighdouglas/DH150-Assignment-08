@@ -23,12 +23,9 @@
 Hulu.com
 9anime.to
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-
-  Hulu is a streaming platform that provides a variety of shows, movies and Live television to its users. Hulu is customizable, kid friendly and requires a subscription. Overall Hulu provides a lot of great shows and has a great aesthetic, but I have had multiple issues with the platform not working on my app or my desktop and has left me discouraged from using it. 9Anime is a streaming service that provides a multitude of anime shows and movies. This platform is unsanctioned which leads to many hiccups, however it functions well and provides the users with basic necessities.
-
+[Hulu](hulu.com) | [9Anime](9anime.to)
+--- | --- 
+Hulu is a streaming platform that provides a variety of shows, movies and Live television to its users. Hulu is customizable, kid friendly and requires a subscription. Overall Hulu provides a lot of great shows and has a great aesthetic, but I have had multiple issues with the platform not working on my app or my desktop and has left me discouraged from using it. |  9Anime is a streaming service that provides a multitude of anime shows and movies. This platform is unsanctioned which leads to many hiccups, however it functions well and provides the users with basic necessities.
 
 ## User research
 

@@ -51,3 +51,9 @@ The purpose of creating low fidelity prototypes is to test the flow of a website
 
 Find more about the low-fidelity protoype [here](https://github.com/ainsleighdouglas/DH-150-Assignment-06)
 
+## High-fidelity prototype
+At this point navigation and interaction with the site should be fairly set so now the designer has the opportunity to add flare. With high fidelity prototyping the designer can begin choosing color and type while keeping accessibility and visual compatibility in mind. I chose a dark background to create a cool ambience when one is watching a show and I added color pop to keep it fun.
+
+#### Check out the interactive Adobe XD [here](https://xd.adobe.com/view/b19ca6df-d5c7-4363-a9e1-d46259e1f1d6-e4cf/screen/460c5512-3c0f-4407-817a-9e3b80a3569c?fullscreen&hints=off)
+
+### Wireframe

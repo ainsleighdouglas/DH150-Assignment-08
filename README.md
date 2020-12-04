@@ -47,7 +47,7 @@ To see all the personas and scenarios: [UX Storytelling](https://github.com/ains
 ## Low-fidelity prototype
 The purpose of creating low fidelity prototypes is to test the flow of a website and how intuitive the interactions are. Using low fidelity prototypes for the designer is to create a flow that does not have any distracting features, that can be altered easily and gives the look and feel of a website. This prototype was designed keeping in mind middle aged women and what would assist in their interaction with the website. I kept in mind average technology experience/knowledge, accessibility of visuals and low cognitive stress. During the user's experience they should have the ability to navigate the site to any extent they want, from searching a specific genre to being directed to a specific show.
 
-<img src="assignment 5pics-06.png"> 
+<img src="Untitled_Artwork 98-2.png"> 
 
 Find more about the low-fidelity protoype [here](https://github.com/ainsleighdouglas/DH-150-Assignment-06)
 

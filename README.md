@@ -28,5 +28,17 @@ For more on Competitor analysis: [Heuristic Evaluation](https://github.com/ainsl
 
 
 ## User research
+This project explores the decompression/relaxation needs of the user and how to reduce one's cognitive load when watching a streaming platform. Ideally by exploring the results of these experiments will lead to a smoother and effortless interaction with streaming platforms and exploring streaming platforms as a proven stress relief and unwinding mechanism. This activity touches on the user’s physiological needs, social belonging and self-actualization. Physiological needs because a rejuvenated mind is necessary to one's physical health and mental health. Social belonging because shows/movies are an avenue to social interaction as well as a deeper connection to others. Lastly, self-actualization because it is an outlet to fulfill one's desire of how to become a better version of themselves.
+
+For more on [User Research](https://github.com/ainsleighdouglas/DH-150-Assignment04)
 
 ## UX storytelling
+The purpose of UX storytelling is to put yourself in the shoes of the user to better understand their actions. The idea is to understand how the user feels when they use the product and how that can result in negative or positive emotions.
+- Customizable homepage (ability to move around the categories to what you prefer at the top, recents, suggested, genres, liked, etc)
+- Transparency in what's available, search availability
+
+[Hulu](hulu.com) | [9Anime](9anime.to)
+--- | --- 
+
+To see all the personas and scenarios: [UX Storytelling](https://github.com/ainsleighdouglas/DH-150---Assignment-05)
+

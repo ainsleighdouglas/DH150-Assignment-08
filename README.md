@@ -58,3 +58,7 @@ At this point navigation and interaction with the site should be fairly set so n
 
 ### Wireframe
 <img src="xd-proto2-02.png"> 
+
+## Evaluation and revision history 
+
+## Conclusion

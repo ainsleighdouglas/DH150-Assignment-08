@@ -62,8 +62,7 @@ At this point navigation and interaction with the site should be fairly set so n
 ## Evaluation and revision history 
 <img src="Screen Shot 2020-12-03 at 5.04.24 PM.png"> | <img src="Untitled_Artwork 99-3.png"> | <img src="design-proto1-02.png"> | <img src="desing-proto2-02.png">  
 --- | --- | --- | --- 
-
-
+These were the intial stages of my wireframing, this showed me the multitude of outcomes the user could have when navigating through my site. | irst the toolbar was in a much more recognizable place because users are familiar with its location because of social media mobile apps. Additionally, the “my feed” feature fits the scrolling availability on smartphones versus the desktop. Overall I would explain the new features more clearly and I will label the new icons so it is more clear of their capability. | The users reacted in a favorable but an unexpected way to my overall design choice. Both users were clear that the site was for streaming movies/shows and that it was simple and easy to use. However, the users inferred that the site was for younger audiences, specifically children, instead of a middle aged audience. This was unexpected but I can see how my color choices may not give off a mature look and feel. | Overall this process was super beneficial in finalizing my design, the best way to work out the kinks is by creating prototypes. The cognitive walkthrough left me with some considerable insights that will need adjusting. The user had no major issues navigating through the space even if icons weren’t familiar to them but they still had suggestions for making it more fluid. 
 
 
 ## Conclusion

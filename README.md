@@ -60,7 +60,7 @@ At this point navigation and interaction with the site should be fairly set so n
 <img src="xd-proto2-02.png"> 
 
 ## Evaluation and revision history 
-<img src="Screen Shot 2020-12-03 at 5.04.24 PM.png"> | <img src="design-proto1-02.png"> | <img src="desing-proto2-02.png"> | <img src="Untitled_Artwork 99-3.png"> 
+<img src="Screen Shot 2020-12-03 at 5.04.24 PM.png"> | <img src="Untitled_Artwork 99-3.png"> | <img src="design-proto1-02.png"> | <img src="desing-proto2-02.png">  
 --- | --- | --- | --- 
 
 

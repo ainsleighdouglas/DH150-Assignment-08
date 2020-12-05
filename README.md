@@ -66,6 +66,9 @@ These were the intial stages of my wireframing, this showed me the multitude of 
 
 
 ## Conclusion
-- Think critically about how the user will process the information you give them, not everyones a designer
-  - Learn the best way to deliver questions to the user
-  - color choices may not give off the look and feel you would like
+
+Overall this project was fruitful, it was enlightening to look at my process and its evolution to better fit the experience of the user. The iterations of this project demonstrated the value of reworking and evaluating work. Rendering work for a user to interact with was the most beneficial in understanding my work through eyes unclouded. 
+
+Originally I wanted to create a product for the user to consume with little to no extra cognitive stress while being unique to itself. I realize quickly that there are similarities in platforms for a reason. Reading through my initial evaluations of “competitors” I was naive to think I could fix some of the issues I saw. An example of this reducing the clutter on the home page. It wasn’t long into the quarter before I realized it’s difficult to reduce the clutter without removing shows/movies.
+
+A critical element to my process was hearing from users. I didn’t realize how many interactions I viewed as intuitive that someone else may not. In the usability testing it was noted that an element that invited the user to scroll seemed like an option to click. In the cognitive walkthrough my color palette was described as “childlike” instead of the more mature look I was going for. These were all points that I missed completely when designing them, but the commentary gave me room to improve. By changing all the elements described my website developed to be more cohesive and in return provided a more pleasant user experience. 

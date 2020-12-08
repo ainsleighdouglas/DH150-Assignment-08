@@ -64,6 +64,9 @@ At this point navigation and interaction with the site should be fairly set so n
 
 #### Check out the interactive Adobe XD [here](https://xd.adobe.com/view/b19ca6df-d5c7-4363-a9e1-d46259e1f1d6-e4cf/screen/460c5512-3c0f-4407-817a-9e3b80a3569c?fullscreen&hints=off)
 
+## Pitch Video
+
+Watch the video [here](https://drive.google.com/file/d/1AijuM_S7Kn0azNR7JCV1VAZv0Fs3HcUw/view?usp=drivesdk)
 
 ## Conclusion
 

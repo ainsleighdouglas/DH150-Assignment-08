@@ -51,18 +51,18 @@ The purpose of creating low fidelity prototypes is to test the flow of a website
 
 Find more about the low-fidelity protoype [here](https://github.com/ainsleighdouglas/DH-150-Assignment-06)
 
-## High-fidelity prototype
-At this point navigation and interaction with the site should be fairly set so now the designer has the opportunity to add flare. With high fidelity prototyping the designer can begin choosing color and type while keeping accessibility and visual compatibility in mind. I chose a dark background to create a cool ambience when one is watching a show and I added color pop to keep it fun.
-
-#### Check out the interactive Adobe XD [here](https://xd.adobe.com/view/b19ca6df-d5c7-4363-a9e1-d46259e1f1d6-e4cf/screen/460c5512-3c0f-4407-817a-9e3b80a3569c?fullscreen&hints=off)
-
-### Wireframe
-<img src="xd-proto2-02.png"> 
-
 ## Evaluation and revision history 
 <img src="Screen Shot 2020-12-03 at 5.04.24 PM.png"> | <img src="Untitled_Artwork 99-3.png"> | <img src="design-proto1-02.png"> | <img src="desing-proto2-02.png">  
 --- | --- | --- | --- 
 These were the intial stages of my wireframing, this showed me the multitude of outcomes the user could have when navigating through my site. | First the toolbar was in a much more recognizable place because users are familiar with its location because of social media mobile apps. Additionally, the “my feed” feature fits the scrolling availability on smartphones versus the desktop. Overall I would explain the new features more clearly and I will label the new icons so it is more clear of their capability. | The users reacted in a favorable but an unexpected way to my overall design choice. Both users were clear that the site was for streaming movies/shows and that it was simple and easy to use. However, the users inferred that the site was for younger audiences, specifically children, instead of a middle aged audience. This was unexpected but I can see how my color choices may not give off a mature look and feel. | Overall this process was super beneficial in finalizing my design, the best way to work out the kinks is by creating prototypes. The cognitive walkthrough left me with some considerable insights that will need adjusting. The user had no major issues navigating through the space even if icons weren’t familiar to them but they still had suggestions for making it more fluid. 
+
+### Wireframe
+<img src="xd-proto2-02.png"> 
+
+## High-fidelity prototype
+At this point navigation and interaction with the site should be fairly set so now the designer has the opportunity to add flare. With high fidelity prototyping the designer can begin choosing color and type while keeping accessibility and visual compatibility in mind. I chose a dark background to create a cool ambience when one is watching a show and I added color pop to keep it fun.
+
+#### Check out the interactive Adobe XD [here](https://xd.adobe.com/view/b19ca6df-d5c7-4363-a9e1-d46259e1f1d6-e4cf/screen/460c5512-3c0f-4407-817a-9e3b80a3569c?fullscreen&hints=off)
 
 
 ## Conclusion

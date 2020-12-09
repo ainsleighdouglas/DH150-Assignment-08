@@ -40,6 +40,13 @@ The purpose of UX storytelling is to put yourself in the shoes of the user to be
 <img src="assignment 5-01.png"> | <img src="assignment 5pics-03.png">
 --- | --- 
 
+<table>
+  <tr>
+    <td> <img src="assignment 5-01.png"> </td>
+     <td> <img src="assignment 5pics-03.png"> </td>
+  </tr>
+</table>
+
 <img src="assignment 5pics-06.png"> 
 
 To see all the personas and scenarios: [UX Storytelling](https://github.com/ainsleighdouglas/DH-150---Assignment-05)

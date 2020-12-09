@@ -37,9 +37,6 @@ The purpose of UX storytelling is to put yourself in the shoes of the user to be
 - Customizable homepage (ability to move around the categories to what you prefer at the top, recents, suggested, genres, liked, etc)
 - Transparency in what's available, search availability
 
-<img src="assignment 5-01.png"> | <img src="assignment 5pics-03.png">
---- | --- 
-
 <table>
   <tr>
     <td> <img src="assignment 5-01.png"> </td>
